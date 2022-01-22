@@ -1,35 +1,4 @@
-# objects
 
-# my_student = {
-#     'name': 'Rolf Smith',
-#     'grades': [70, 80, 99, 90],
-#     'average': None  # something here
-# }
-
-
-# def average_grade(student):
-#     return sum(student['grades']) / len(student['grades'])
-
-
-# print(average_grade(my_student))
-
-# --------------------------------------------
-
-# class Student:
-#     def __init__(self, s_name, s_grades):
-#         self.s_name = s_name
-#         self.grades = s_grades
-
-#     def student_average(self):
-#         return sum(self.grades) / len(self.grades)
-
-
-# student1 = Student('John Smith', [70, 80, 99, 90])
-
-# print(student1.grades)
-# print(student1.student_average())
-
-# ----------- Practice -------------
 
 from database import get_books, book_list
 
